@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/BulbBuster/About.qml</file>
+        <file>qml/BulbBuster/Baloon.qml</file>
+        <file>qml/BulbBuster/Credits.qml</file>
+        <file>qml/BulbBuster/gameLogicScript.js</file>
+        <file>qml/BulbBuster/HighScores.qml</file>
+        <file>qml/BulbBuster/HomeScreen.qml</file>
+        <file>qml/BulbBuster/main.qml</file>
+        <file>qml/BulbBuster/Purisa.ttf</file>
+        <file>qml/BulbBuster/Rules.qml</file>
+        <file>qml/BulbBuster/ShutDownScreen.qml</file>
+        <file>qml/BulbBuster/Images/arrow_mine.png</file>
+        <file>qml/BulbBuster/Images/blue.png</file>
+        <file>qml/BulbBuster/Images/blueStar.png</file>
+        <file>qml/BulbBuster/Images/bow_mine.png</file>
+        <file>qml/BulbBuster/Images/cfl.png</file>
+        <file>qml/BulbBuster/Images/close.png</file>
+        <file>qml/BulbBuster/Images/green.png</file>
+        <file>qml/BulbBuster/Images/greenStar.png</file>
+        <file>qml/BulbBuster/Images/homeScreen.png</file>
+        <file>qml/BulbBuster/Images/orange.png</file>
+        <file>qml/BulbBuster/Images/peach.png</file>
+        <file>qml/BulbBuster/Images/purple.png</file>
+        <file>qml/BulbBuster/Images/red.png</file>
+        <file>qml/BulbBuster/Images/redStar.png</file>
+        <file>qml/BulbBuster/Images/sampleBallon.xcf</file>
+        <file>qml/BulbBuster/Images/star.png</file>
+        <file>qml/BulbBuster/Images/yellow.png</file>
+        <file>qml/BulbBuster/Images/bg.png</file>
+    </qresource>
+</RCC>

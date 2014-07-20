@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/SmartBuyer/main.qml</file>
+        <file>qml/SmartBuyer/Blender.png</file>
+        <file>qml/SmartBuyer/Bulb.png</file>
+        <file>qml/SmartBuyer/CFL.png</file>
+        <file>qml/SmartBuyer/CoffeMaker.png</file>
+        <file>qml/SmartBuyer/Computer.png</file>
+        <file>qml/SmartBuyer/Dryer.png</file>
+        <file>qml/SmartBuyer/Home.jpeg</file>
+        <file>qml/SmartBuyer/Home.png</file>
+        <file>qml/SmartBuyer/Iron.png</file>
+        <file>qml/SmartBuyer/Lamp.png</file>
+        <file>qml/SmartBuyer/Laptop.png</file>
+        <file>qml/SmartBuyer/Microwave.png</file>
+        <file>qml/SmartBuyer/MusicSystem.png</file>
+        <file>qml/SmartBuyer/Projector.png</file>
+        <file>qml/SmartBuyer/Refrigerator.png</file>
+        <file>qml/SmartBuyer/TableFan.png</file>
+        <file>qml/SmartBuyer/TV.png</file>
+        <file>qml/SmartBuyer/WashingMachine.png</file>
+    </qresource>
+</RCC>

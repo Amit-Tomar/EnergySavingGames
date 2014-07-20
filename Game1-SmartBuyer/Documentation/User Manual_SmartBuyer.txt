@@ -1,0 +1,24 @@
+--------------------------
+Smart Buyer
+--------------------------
+
+This tool will guide player to understand about their appliance consumption and buy accordingly.
+
+-------------
+How to use
+-------------
+
+• To know about your appliance, just click on the appliance icon
+• Selected appliance will be visible with a green colour background
+and unselected appliance will be visible with light grey colour.
+• Multiple appliance selection is possible.
+• To unselect an appliance, click again.
+• Total power consumption is shown at the bottom of the page.
+
+-------------
+Credits
+-------------
+
+Developed by  : Amit Tomar (amit.tomar@iiitb.org)
+
+

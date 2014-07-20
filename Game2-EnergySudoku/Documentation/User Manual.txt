@@ -1,0 +1,38 @@
+﻿--------------------------
+Energy Sudoku
+--------------------------
+
+Just like the original game Sudoku, Energy Sudoku is a logic-based, number-placement puzzle. The objective is to fill a 9×9 grid with images so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes", "blocks", "regions", or "sub-squares") contains all of the images from 1 to 9. The puzzle setter provides a partially completed grid, which typically has a unique solution. Instead of normal number from 1 to 9, Energy Sudoku is provided with 9 different images.
+
+-------------
+How to use
+-------------
+
+1. Install the game by double clicking.
+2. Start the game by doble clicking on the game icon.
+3. Chose a level (Level implies level of difficulty in solving the puzzle).
+4. The blocks which are to be filled by the player are initially left blank.
+5. To fill a block, click on it. Scroll the shown list and to chose one of the 9 images, click any image.
+6. To check if your solution is correct, press the 'Check' button.
+7. If you are not able to solve it, press the 'Solve' button to solve automatically.
+8. To reset the game, press the reset button.
+9. Press 'close' icon to exit at any moment.
+
+-------------
+Credits
+-------------
+
+Developed by  : Amit Tomar (amit.tomar@iiitb.org)
+Icons credits : http://icongal.com/
+Fonts credits : http://icongal.com/
+
+Special thanks : Alark Sharma ( alarksharma@gmail.com )
+
+-------------------
+Other References : 
+-------------------
+
+1. http://en.wikipedia.org/wiki/Sudoku
+2. http://blog.forret.com/2006/08/a-sudoku-challenge-generator/
+
+

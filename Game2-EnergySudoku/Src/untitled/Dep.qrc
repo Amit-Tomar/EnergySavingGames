@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/untitled/1.png</file>
+        <file>qml/untitled/2.png</file>
+        <file>qml/untitled/3.png</file>
+        <file>qml/untitled/4.png</file>
+        <file>qml/untitled/5.png</file>
+        <file>qml/untitled/6.png</file>
+        <file>qml/untitled/7.png</file>
+        <file>qml/untitled/8.png</file>
+        <file>qml/untitled/9.png</file>
+        <file>qml/untitled/button.png</file>
+        <file>qml/untitled/button_press.png</file>
+        <file>qml/untitled/button_pressed.png</file>
+        <file>qml/untitled/close.png</file>
+        <file>qml/untitled/componentCreation.js</file>
+        <file>qml/untitled/energySudoku.png</file>
+        <file>qml/untitled/main.qml</file>
+        <file>qml/untitled/select.png</file>
+        <file>qml/untitled/shadow.png</file>
+        <file>qml/untitled/SudokuGrid.qml</file>
+    </qresource>
+</RCC>
